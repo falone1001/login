@@ -1,5 +1,8 @@
-login
-=====
+open terminal
+`git clone https://github.com/falone1001/test.git `
 
-A Symfony project created on December 4, 2018, 4:03 pm.
-# login
+`cd test`
+
+`composer install`
+
+
